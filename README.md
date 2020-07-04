@@ -1,4 +1,4 @@
-# GuitarHero
+# DIJISTRING
 A study on sound synthesis, digital audio.
 
 Curiosity of how digital sound production worked led me to this project. DIJISTRING is able to produce sounds of Harp, and Guitar well. 
